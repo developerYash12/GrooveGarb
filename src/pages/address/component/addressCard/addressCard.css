@@ -1,0 +1,23 @@
+.address-head{
+    display: flex;
+    justify-content: center;
+}
+
+.address-list{
+    border: 1px solid darkgrey;
+    width: 30rem;
+    margin: 2rem 7rem;
+    padding: 1rem;
+    line-height: 1;
+    font-weight: 600;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.new-address-btn{
+    padding: 10px 24px;
+    border-radius: 20px;
+    background: #111;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 2px;
+}

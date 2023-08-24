@@ -1,0 +1,36 @@
+.address-details {
+    border: 2px solid darkgray;
+    margin: 1rem 35rem;
+    width: 30rem;
+    line-height: 1;
+    font-weight: 600;
+    padding: 1rem;
+}
+.edit-address-btn {
+    color: white;
+    background: #3c516b;
+    padding: 0.5rem 1rem;
+    font-size: inherit;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 2rem;
+}
+.delete-address-btn {
+    padding: 10px 24px;
+    border-radius: 20px;
+    background: #111;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 2px;
+}
+.add-address-btn {
+    padding: 10px 24px;
+    border-radius: 20px;
+    background: #111;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 2px;
+}

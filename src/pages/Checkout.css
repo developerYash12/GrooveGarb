@@ -1,0 +1,35 @@
+.discount-msg{
+  color: red;
+}
+.checkout-card {
+    display: flex;
+    flex-direction: column;
+  }
+  .checkout-details{
+    width: 37rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    border: 1px solid darkgrey;
+}
+  .checkout-summary{
+    width: 100%;
+  }
+  
+  .address-section,
+  .summary-section {
+    margin: 10px;
+  }
+  
+
+  @media (min-width: 768px) {
+    .checkout-card {
+      flex-direction: row;
+      justify-content: space-between;
+    
+    }
+  
+    .address-section,
+    .summary-section {
+      width: 100%;
+    }
+  }
+  
