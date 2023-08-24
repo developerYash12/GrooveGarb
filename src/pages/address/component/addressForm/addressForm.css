@@ -64,7 +64,6 @@ input{
     margin: 2px;
 }
 .cancel-btn:hover{
-    background: #ff7373;
     border: 1px solid;
     color: white;
 }
